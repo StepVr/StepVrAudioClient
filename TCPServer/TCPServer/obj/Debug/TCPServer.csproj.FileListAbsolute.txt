@@ -1,0 +1,5 @@
+D:\NewProject\VsProject\Lan_Chat\TCPServer\TCPServer\bin\Debug\TCPServer.dll
+D:\NewProject\VsProject\Lan_Chat\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+D:\NewProject\VsProject\Lan_Chat\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+D:\NewProject\VsProject\Lan_Chat\TCPServer\TCPServer\obj\Debug\TCPServer.dll
+D:\NewProject\VsProject\Lan_Chat\TCPServer\TCPServer\obj\Debug\TCPServer.pdb

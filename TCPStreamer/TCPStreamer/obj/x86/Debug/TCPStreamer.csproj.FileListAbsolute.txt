@@ -1,0 +1,17 @@
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\bin\Debug\TCPStreamer.exe.config
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\bin\Debug\TCPStreamer.exe
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\bin\Debug\TCPStreamer.pdb
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\bin\Debug\TCPClient.dll
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\bin\Debug\TCPServer.dll
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\bin\Debug\WinSound.dll
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\bin\Debug\TCPClient.pdb
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\bin\Debug\TCPServer.pdb
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\bin\Debug\WinSound.pdb
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.csprojAssemblyReference.cache
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.FormMain.resources
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.Properties.Resources.resources
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.csproj.GenerateResource.cache
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.csproj.CoreCompileInputs.cache
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.csproj.CopyComplete
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.exe
+D:\NewProject\VsProject\Lan_Chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.pdb

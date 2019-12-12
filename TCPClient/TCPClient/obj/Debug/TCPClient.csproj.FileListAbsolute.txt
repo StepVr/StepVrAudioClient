@@ -1,0 +1,6 @@
+D:\NewProject\VsProject\Lan_Chat\TCPClient\TCPClient\bin\Debug\TCPClient.dll
+D:\NewProject\VsProject\Lan_Chat\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\NewProject\VsProject\Lan_Chat\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+D:\NewProject\VsProject\Lan_Chat\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\NewProject\VsProject\Lan_Chat\TCPClient\TCPClient\obj\Debug\TCPClient.dll
+D:\NewProject\VsProject\Lan_Chat\TCPClient\TCPClient\obj\Debug\TCPClient.pdb

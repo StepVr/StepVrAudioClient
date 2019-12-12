@@ -1,0 +1,5 @@
+D:\NewProject\VsProject\Lan_Chat\WinSound\WinSound\bin\Debug\WinSound.dll
+D:\NewProject\VsProject\Lan_Chat\WinSound\WinSound\bin\Debug\WinSound.pdb
+D:\NewProject\VsProject\Lan_Chat\WinSound\WinSound\obj\Debug\WinSound.csproj.CoreCompileInputs.cache
+D:\NewProject\VsProject\Lan_Chat\WinSound\WinSound\obj\Debug\WinSound.dll
+D:\NewProject\VsProject\Lan_Chat\WinSound\WinSound\obj\Debug\WinSound.pdb
