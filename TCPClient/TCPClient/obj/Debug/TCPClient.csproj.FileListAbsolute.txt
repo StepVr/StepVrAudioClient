@@ -4,3 +4,9 @@ D:\NewProject\VsProject\Lan_Chat\TCPClient\TCPClient\obj\Debug\TCPClient.csprojA
 D:\NewProject\VsProject\Lan_Chat\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
 D:\NewProject\VsProject\Lan_Chat\TCPClient\TCPClient\obj\Debug\TCPClient.dll
 D:\NewProject\VsProject\Lan_Chat\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+D:\NewProject\VsProject\StepVrAudioClient\TCPClient\TCPClient\bin\Debug\TCPClient.dll
+D:\NewProject\VsProject\StepVrAudioClient\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\NewProject\VsProject\StepVrAudioClient\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+D:\NewProject\VsProject\StepVrAudioClient\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\NewProject\VsProject\StepVrAudioClient\TCPClient\TCPClient\obj\Debug\TCPClient.dll
+D:\NewProject\VsProject\StepVrAudioClient\TCPClient\TCPClient\obj\Debug\TCPClient.pdb

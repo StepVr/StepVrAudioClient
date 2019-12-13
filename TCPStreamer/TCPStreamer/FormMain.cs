@@ -105,19 +105,28 @@ namespace TCPStreamer
                 this.Invoke(new MethodInvoker(delegate()
                 {
                     ShowMessage(LabelClient, NewOrder);
-                    if (NewOrder.Equals("team1"))
+
+                    if (NewOrder.Contains("Chanel1"))
                     {
-                        this.TextBoxClientAddress.Text = "192.168.50.107";
                         this.TextBoxClientPort.Text = "7780";
                         ReConnectClient();
                         return;
                     }
-                    if (NewOrder.Equals("team2"))
+
+                    if (NewOrder.Contains("Chanel2"))
                     {
-                        this.TextBoxClientAddress.Text = "192.168.50.107";
                         this.TextBoxClientPort.Text = "7781";
                         ReConnectClient();
                         return;
+                    }
+
+                    if(NewOrder.Contains("ServerIP:"))
+                    {
+                        string[] sArray = NewOrder.Split(':');
+                        if(sArray.Length == 2)
+                        {
+                            this.TextBoxClientAddress.Text = sArray[1];
+                        }
                     }
                 }));
             }

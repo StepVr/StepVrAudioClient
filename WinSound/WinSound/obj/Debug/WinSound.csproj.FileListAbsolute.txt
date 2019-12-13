@@ -3,3 +3,9 @@ D:\NewProject\VsProject\Lan_Chat\WinSound\WinSound\bin\Debug\WinSound.pdb
 D:\NewProject\VsProject\Lan_Chat\WinSound\WinSound\obj\Debug\WinSound.csproj.CoreCompileInputs.cache
 D:\NewProject\VsProject\Lan_Chat\WinSound\WinSound\obj\Debug\WinSound.dll
 D:\NewProject\VsProject\Lan_Chat\WinSound\WinSound\obj\Debug\WinSound.pdb
+D:\NewProject\VsProject\StepVrAudioClient\WinSound\WinSound\bin\Debug\WinSound.dll
+D:\NewProject\VsProject\StepVrAudioClient\WinSound\WinSound\bin\Debug\WinSound.pdb
+D:\NewProject\VsProject\StepVrAudioClient\WinSound\WinSound\obj\Debug\WinSound.csprojAssemblyReference.cache
+D:\NewProject\VsProject\StepVrAudioClient\WinSound\WinSound\obj\Debug\WinSound.csproj.CoreCompileInputs.cache
+D:\NewProject\VsProject\StepVrAudioClient\WinSound\WinSound\obj\Debug\WinSound.dll
+D:\NewProject\VsProject\StepVrAudioClient\WinSound\WinSound\obj\Debug\WinSound.pdb
